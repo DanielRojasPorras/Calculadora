@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        texto = findViewById(R.id.textView)//obtiene el textView
+        texto = findViewById(R.id.textView)//obtiene el textVie
 
         //Boton de borrar "C"
         val buttonC : Button = findViewById(R.id.buttonC)
